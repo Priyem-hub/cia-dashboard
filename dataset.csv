@@ -1,0 +1,41 @@
+region,country,latitude,longitude,risk_score,military_spending,sanctions,trade_dependency,diplomatic_stability,active_conflicts,population_m,gdp_billions
+Eastern Europe,Ukraine,48.3794,31.1656,92,8.5,9,6.2,1.8,5,43.5,160
+Middle East,Syria,34.8021,38.9968,89,5.2,8,4.1,1.2,6,21.3,11
+East Africa,Somalia,5.1521,46.1996,87,2.1,6,3.2,1.0,7,17.1,8
+South Asia,Afghanistan,33.9391,67.7100,85,3.8,7,3.5,1.1,6,40.1,20
+West Africa,Mali,17.5707,-3.9962,81,2.8,5,4.4,2.1,5,22.4,18
+Caucasus,Georgia,42.3154,43.3569,78,3.2,5,5.2,3.4,3,3.7,17
+Middle East,Yemen,15.5527,48.5164,88,4.1,7,3.8,1.0,7,33.7,21
+Central Africa,DRC,4.0383,21.7587,84,2.5,4,3.0,1.5,6,102.3,55
+West Africa,Nigeria,9.0820,8.6753,74,1.9,3,5.8,3.2,4,223.8,440
+Southeast Asia,Myanmar,21.9162,95.9560,79,4.6,8,4.2,2.0,5,54.4,65
+Central Asia,Kazakhstan,48.0196,66.9237,41,1.2,2,6.8,5.2,1,19.3,220
+East Asia,North Korea,40.3399,127.5101,76,23.5,10,2.1,1.0,2,25.9,18
+South America,Venezuela,6.4238,-66.5897,68,2.8,8,4.5,2.5,3,28.3,80
+Middle East,Iran,32.4279,53.6880,72,4.8,9,3.8,2.2,3,87.9,367
+South Asia,Pakistan,30.3753,69.3451,66,4.0,4,5.2,3.5,3,231.4,376
+East Africa,Ethiopia,9.1450,40.4897,71,1.8,3,4.8,3.0,4,126.5,126
+Southeast Asia,Philippines,12.8797,121.7740,55,1.5,1,6.4,4.8,2,115.6,404
+South Asia,India,20.5937,78.9629,48,2.9,1,6.8,5.2,2,1441.7,3385
+Middle East,Iraq,33.2232,43.6793,78,4.2,5,4.8,2.5,4,41.2,264
+North Africa,Libya,26.3351,17.2283,82,6.1,6,3.8,1.8,5,7.1,42
+West Africa,Burkina Faso,12.3641,-1.5197,77,2.2,2,3.8,2.2,5,22.7,19
+Horn of Africa,Eritrea,15.1794,39.7823,64,6.5,5,3.2,1.5,2,3.5,2
+Central America,Haiti,18.9712,-72.2852,73,1.2,4,4.1,1.8,4,11.5,20
+Balkans,Bosnia,43.9159,17.6791,52,1.8,2,5.5,4.2,1,3.3,24
+Caucasus,Armenia,40.0691,45.0382,61,5.2,3,4.8,3.5,2,2.9,14
+East Europe,Moldova,47.4116,28.3699,57,0.8,4,5.2,3.8,2,2.6,12
+Central Asia,Tajikistan,38.8610,71.2761,59,2.1,2,4.5,3.2,2,10.1,9
+Southeast Asia,Laos,19.8563,102.4955,43,0.5,1,5.8,4.5,1,7.4,24
+East Asia,Taiwan,23.6978,120.9605,67,2.5,1,7.2,5.8,2,23.6,789
+Eastern Europe,Belarus,53.7098,27.9534,63,1.8,8,4.5,2.8,2,9.4,63
+Middle East,Lebanon,33.8547,35.8623,76,4.5,4,3.5,2.0,4,5.5,17
+South America,Colombia,4.5709,-74.2973,58,3.4,3,6.2,4.8,2,52.2,343
+West Africa,Guinea,11.0041,-10.9408,65,1.5,2,4.2,2.8,3,13.5,15
+East Africa,Mozambique,18.6657,35.5296,62,1.1,1,4.5,3.5,3,33.1,17
+Southern Africa,Zimbabwe,20.0000,30.0000,60,2.2,6,4.0,2.5,2,16.3,21
+Central Asia,Kyrgyzstan,41.2044,74.7661,49,1.2,1,5.2,4.0,1,6.9,9
+Western Europe,France,46.2276,2.2137,28,2.1,0,7.8,7.2,0,68.0,3050
+North America,United States,37.0902,-95.7129,35,3.5,0,8.2,7.5,1,335.9,26950
+East Asia,China,35.8617,104.1954,44,1.7,3,7.5,6.2,1,1412.0,17700
+Eastern Europe,Russia,61.5240,105.3188,69,4.1,9,5.5,2.8,3,144.1,1830
